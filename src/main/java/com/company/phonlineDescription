@@ -1,0 +1,20 @@
+//состояния
+Idle 0
+Conversation 1
+Warning 2
+Ready 3
+
+//input
+onHook 0
+offHook 1
+invalidNumber 2
+validNumber 3
+
+//output
+null 0
+disconnectedLine 1
+continues 2
+slowBusyTone 3
+findConnection 4
+soundDialTone 5
+PlayMessage 6
