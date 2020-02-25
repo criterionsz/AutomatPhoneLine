@@ -2,11 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d026349c-8ffe-44eb-bc21-3a382f0bab60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/company/Testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/FSMContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/FSMContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLine$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLine$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Conversation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Conversation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Idle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Idle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Ready.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Ready.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Warning.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Warning.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$InvalidNumberTransition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$InvalidNumberTransition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$OffHookTransition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$OffHookTransition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$OnHookTransition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$OnHookTransition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$OptionLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$OptionLayout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$Transition$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$Transition$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$Transition$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$Transition$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$Transition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$Transition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$ValidNumberTransition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$ValidNumberTransition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/StateChangeListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/StateChangeListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/StateUndefinedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/StateUndefinedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/TransitionUndefinedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/TransitionUndefinedException.class" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +101,18 @@
       <recent name="C:\Users\salim\IdeaProjects\AutomatPhoneLineProject\src\test\java" />
       <recent name="C:\Users\salim\IdeaProjects\AutomatPhoneLineProject\src\com\company" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="JUnit.Testing (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -129,18 +179,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -160,6 +198,7 @@
       <workItem from="1582619601870" duration="2680000" />
       <workItem from="1582622609261" duration="555000" />
       <workItem from="1582628778928" duration="952000" />
+      <workItem from="1582630273993" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="PhoneLine Automat realisation">
       <created>1582614792671</created>
@@ -194,6 +233,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PhoneLine Automat realisation" />

@@ -13,9 +13,9 @@ public class Testing {
      PhoneLine pl;
     int k=0;
     @Before
-    void setUp() throws Exception { k=3; pl = new PhoneLine(); }
+    public void setUp() throws Exception { k=3; pl = new PhoneLine(); }
     @After
-    void tearDown() throws Exception { pl = null; }
+    public void tearDown() throws Exception { pl = null; }
 
 
     @Test
