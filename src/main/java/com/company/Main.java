@@ -7,9 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-	  PhoneLine phoneLine = new PhoneLine();
-	  phoneLine.onHook();
-	  System.out.println(phoneLine.offHook());
+
     }
 }
 

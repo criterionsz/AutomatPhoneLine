@@ -1,23 +1,25 @@
 package com.company;
 
 
+import org.junit.After;
 import org.junit.Assert;
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.Before;
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class Testing {
 
-    PhoneLine pl;
+     PhoneLine pl;
     int k=0;
-    @BeforeEach
+    @Before
     void setUp() throws Exception { k=3; pl = new PhoneLine(); }
-    @AfterEach
+    @After
     void tearDown() throws Exception { pl = null; }
 
+
     @Test
-    public void TestCase1() {
+    public  void TestCase1() {
         try {Thread.sleep(1); } catch (Exception ex) {}
         try {
             pl.onHook();
