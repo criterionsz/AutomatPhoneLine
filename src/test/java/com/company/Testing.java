@@ -1,5 +1,6 @@
-import com.company.PhoneLine;
-import com.company.TransitionUndefinedException;
+package com.company;
+
+
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.AfterEach;
