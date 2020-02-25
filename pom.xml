@@ -28,7 +28,7 @@
                     <param>com.company.PhoneLine*</param>
                 </targetClasses>
                 <targetTests>
-                    <param>com.company.*</param>
+                    <param>com.company*</param>
                 </targetTests>
 
             </configuration>

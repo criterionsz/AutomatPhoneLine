@@ -2,61 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d026349c-8ffe-44eb-bc21-3a382f0bab60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomatPhoneLineProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AutomatPhoneLineProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/company/Testing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/AutomatPhoneLineProject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/FSMContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/FSMContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLine$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLine$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Conversation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Conversation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Idle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Idle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Ready.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Ready.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Warning.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default$PhoneLineFSM_Warning.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineFSM_Default.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext$PhoneLineState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$InvalidNumberTransition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$InvalidNumberTransition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$OffHookTransition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$OffHookTransition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$OnHookTransition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$OnHookTransition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$OptionLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$OptionLayout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$Transition$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$Transition$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$Transition$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$Transition$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$Transition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$Transition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$ValidNumberTransition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample$ValidNumberTransition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/PhoneLineSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/State.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/StateChangeListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/StateChangeListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/StateUndefinedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/StateUndefinedException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/TransitionUndefinedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/TransitionUndefinedException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/AutomatPhoneLineProject.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -209,7 +159,7 @@
       <workItem from="1582614462783" duration="4111000" />
       <workItem from="1582619601870" duration="2680000" />
       <workItem from="1582622609261" duration="555000" />
-      <workItem from="1582628778928" duration="632000" />
+      <workItem from="1582628778928" duration="952000" />
     </task>
     <task id="LOCAL-00001" summary="PhoneLine Automat realisation">
       <created>1582614792671</created>
@@ -232,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582620645860</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="PhoneLine Automat realisation">
+      <created>1582629637865</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582629637865</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,10 +220,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1582186347410" />
-    <state x="315" y="28" key="CommitChangelistDialog2" timestamp="1582620644982">
+    <state x="315" y="28" key="CommitChangelistDialog2" timestamp="1582629636822">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="315" y="28" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1582620644982" />
+    <state x="315" y="28" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1582629636822" />
     <state width="429" height="466" key="DebuggerActiveHint" timestamp="1582574867089">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -319,10 +276,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-6" y="0" width="914" height="864" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1582622721587" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1582620655178">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1582629643883">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1582620655178" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1582629643883" />
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1582622609930">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
